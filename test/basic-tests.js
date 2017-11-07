@@ -9,7 +9,7 @@ const customer = require('../models/customer');
 
 /************ IMPORTANT *******************
 When running these tests with the intention to use mocks, make
-sure that the environment variable setting, DEV_ENV is set.
+sure that the environment variable setting, DEV_ENV is set to 'test'.
  ******************************************/
 
 describe('Basic Tests: ', () => {
