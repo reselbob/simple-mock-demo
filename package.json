@@ -1,0 +1,19 @@
+{
+  "name": "mabl-mock-demo",
+  "version": "1.0.0",
+  "description": "A simple project for demonstrating developer made mocking",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/basic-tests.js"
+  },
+  "keywords": [
+    "mock",
+    "test"
+  ],
+  "author": "reselbob@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
